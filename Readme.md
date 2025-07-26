@@ -15,9 +15,11 @@ YouTube Agent is an intelligent AI-powered system that provides comprehensive Yo
 
 ## 🎥 Demo Video
 
-[![YouTube Agent Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+### YouTube Agent Demo
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/42a71c85-234f-498e-bb61-c12f055d0166" />
+(https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-*[Upload your demo video and replace YOUR_VIDEO_ID with the actual YouTube video ID]*
+
 
 ## 🛠️ Tech Stack
 
